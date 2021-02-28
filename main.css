@@ -1,0 +1,67 @@
+html{
+	
+		background-color : red;
+
+	
+	
+}
+
+
+body {
+	width: 60%;
+/*	height: 200px;	*/
+	background-color : green;
+	margin: 0 auto;
+	border: 5px solid black;
+
+	
+	
+}
+
+
+img {
+	width: 150px;
+	height: 100px;
+	display: block;
+	margin: 0 auto;
+	border-radius: 100%;
+	border: 10px  ridge gold;
+	
+	
+}
+
+
+#hdf{
+	
+	color: blue;
+	
+}
+
+
+
+
+#fsdf{
+		color: orange;
+
+	
+}
+
+/*
+.ss{
+	
+	width: 400px;
+	height: 200px;
+	
+	background-color: green;
+	
+	border: 20px groove orange;
+	border-radius: 100px;
+	margin: 0 auto;
+	
+	background-image: url("klak.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+*/
